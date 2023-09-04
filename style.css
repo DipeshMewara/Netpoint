@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+body {
+    background-color:antiquewhite;
+}
+h1{
+    font-style:italic
+}
+h1 {
+    color: whitesmoke;
+    background-color: darkseagreen;
+}
+h2 {
+    color: #FAF8F1;
+    background-color: #C58940;
+}
+p {
+    color: red;
+}
+#contact {
+    color: darkturquoise;
+}
+button {
+    color: red;
+    background-color:burlywood
+}
